@@ -1,5 +1,3 @@
-print("Name : Dhanush C")
-print("USN : 1BM22CS085")
 import numpy as np
 import matplotlib.pyplot as plt
 
